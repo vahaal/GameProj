@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2466b14ddcb639747a6c42ecb46b6add
+guid: da10cfb85b5ea504f81843669ad5359c
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,7 +8,7 @@ ModelImporter:
     2100000: unnamed
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cylinder_022
+    4300000: Icosphere
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
